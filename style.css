@@ -1,0 +1,74 @@
+body {
+    background-color: #ffccff; /* Cor de fundo pastel */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff6b6b; /* Cor de título fofinho */
+    margin-top: 20px;
+}
+
+form {
+    background-color: #fff; /* Fundo branco */
+    padding: 20px;
+    border-radius: 10px; /* Cantos arredondados */
+    width: 80%;
+    max-width: 400px;
+    margin: 20px auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="text"]:focus {
+    border: 1px solid #ff6b6b; /* Cor de foco fofinho */
+    outline: none;
+}
+
+input[type="text"]::placeholder {
+    color: #ccc; /* Cor do espaço reservado */
+}
+
+button {
+    background-color: #ff6b6b; /* Cor de botão fofinho */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #ff4d4d; /* Cor de botão fofinho ao passar o mouse */
+}
+
+/* Estilos anteriores permanecem iguais */
+
+/* Adicione um media query para ajustar o estilo em telas menores */
+@media (max-width: 768px) {
+    form {
+        width: 90%; /* Reduz a largura do formulário em telas menores */
+    }
+
+    input[type="text"] {
+        width: 100%; /* Expande os campos de entrada para a largura total da tela */
+    }
+}
