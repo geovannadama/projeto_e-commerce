@@ -3,21 +3,21 @@ Projeto com o intuito de criar um site de comércio eletrônico responsivo utili
 
 # Indice
 
-[Projeto - Portifólio para a escrita do README](#projeto---portif%C3%B3lio-para-a-escrita-do-readme)  
-[Descrição](#descri%C3%A7%C3%A3o)  
-[Funcionalidades](#funcionalidades)  
-[Tecnologias utilizadas](#tecnologias-utilizadas)  
-[Fontes consultadas](#fontes-consultadas)  
-[Autores](#autores)  
+[Projeto - E-commerce](#-projeto---e-commerce)  
+[Descrição](#-descri%C3%A7%C3%A3o)  
+[Funcionalidades](#%EF%B8%8F-funcionalidade)  
+[Tecnologias utilizadas](#-tecnologias-utilizadas)  
+[Fontes consultadas](#-fontes-consultadas)  
+[Autores](#-autores)  
 
 # 🚀 Projeto - E-commerce
-![image]()
+![gif](gif/video%20ecomme.gif)
 
 ## 📝 Descrição 
 - Este é um projeto simples que demonstra como criar um formulário de cadastro em HTML com a capacidade de consultar automaticamente o CEP inserido pelo usuário e preencher os campos de endereço. O projeto utiliza a API pública "ViaCEP" para obter informações de endereço com base no CEP fornecido.
 
 ## ⚙️ Funcionalidade  
-- Tela de Cadastro: O aplicativo exibe uma tela intuitiva de cadastro com campos para CEP, endereço, bairro, número, cidade e estado.
+- Tela de Cadastro: O aplicativo exibe uma tela intuitiva de cadastro com campos para nome, telefone, cpf, email, senha, cep, logradouro, bairro, cidade e estado.
 
 - Consulta de Endereço: Ao preencher o campo de CEP, o sistema realiza uma consulta a uma API de serviço de CEP para obter as informações de endereço correspondentes.   
 
