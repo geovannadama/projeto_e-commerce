@@ -42,7 +42,7 @@ Projeto com o intuito de criar um site de comércio eletrônico responsivo utili
 
 ## 🔎 Fontes consultadas
 - [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
--[FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/fetch-api-como-fazer-solicitacoes-get-e-post-em-javascript/#:~:text=fetch()%20%C3%A9%20um%20mecanismo,a%20execu%C3%A7%C3%A3o%20de%20outras%20instru%C3%A7%C3%B5es.)
+- [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/fetch-api-como-fazer-solicitacoes-get-e-post-em-javascript/#:~:text=fetch()%20%C3%A9%20um%20mecanismo,a%20execu%C3%A7%C3%A3o%20de%20outras%20instru%C3%A7%C3%B5es.)
 
 ## 🙎🏽 Autores 
 - Geovanna Dama
