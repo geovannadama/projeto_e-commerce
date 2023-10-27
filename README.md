@@ -54,5 +54,6 @@ Projeto com o intuito de criar um site de comércio eletrônico responsivo utili
 - [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
 
 ## 🙎🏽 Autores 
-- Geovanna Dama
-- Emily Rodrigues 
+[Emily Rodrigues](https://github.com/emilypessoa)
+[Geovanna Dama](https://github.com/geovannadama)
+
