@@ -41,7 +41,7 @@ Projeto com o intuito de criar um site de comércio eletrônico responsivo utili
 
 - Catch: Uma cláusula catch contém declarações que especificam o que fazer caso uma exceção seja lançada no bloco try . 
 
-- Then:O método then() retorna uma Promise. Possui dois argumentos, ambos são "call back functions", sendo uma para o sucesso e outra para o fracasso da promessa.
+- Then: O método then() retorna uma Promise. Possui dois argumentos, ambos são "call back functions", sendo uma para o sucesso e outra para o fracasso da promessa.
 
 
 
