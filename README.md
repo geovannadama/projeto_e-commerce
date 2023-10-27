@@ -37,12 +37,17 @@ Projeto com o intuito de criar um site de comércio eletrônico responsivo utili
 #### Códigos
 - Fetch: fetch() é um mecanismo que permite que você faça chamadas de AJAX (Asynchronous JavaScript And XML, em inglês) simples com o JavaScript. Assíncrono significa que você pode usar fetch para fazer uma chamada para uma API externa sem parar a execução de outras instruções.
 
+- Json: O JSON existe como uma string — útil quando você deseja transmitir dados por uma rede. Ele precisa ser convertido em um objeto JavaScript nativo quando você quiser acessar os dados.
+- Catch: Uma cláusula catch contém declarações que especificam o que fazer caso uma exceção seja lançada no bloco try . 
+
 
 
 
 ## 🔎 Fontes consultadas
 - [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
 - [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/fetch-api-como-fazer-solicitacoes-get-e-post-em-javascript/#:~:text=fetch()%20%C3%A9%20um%20mecanismo,a%20execu%C3%A7%C3%A3o%20de%20outras%20instru%C3%A7%C3%B5es.)
+- [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON)
+- [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch)
 
 ## 🙎🏽 Autores 
 - Geovanna Dama
