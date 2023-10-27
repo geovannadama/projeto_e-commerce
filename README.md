@@ -8,7 +8,7 @@ Projeto com o intuito de criar um site de comércio eletrônico responsivo utili
 [Funcionalidades](#%EF%B8%8F-funcionalidade)  
 [Tecnologias utilizadas](#-tecnologias-utilizadas)  
 [Fontes consultadas](#-fontes-consultadas)  
-[Autores](#-autores) 
+[Autores](#-autores)   
 [Código](#c%C3%B3digos) 
 
 # 🚀 Projeto - E-commerce
